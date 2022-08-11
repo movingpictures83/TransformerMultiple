@@ -1,0 +1,7 @@
+inputfile	Merged.csv
+divide	578448
+lr	0.00001
+epochs	2
+target	WS_S1
+stations	stations.txt
+indices	indices.txt

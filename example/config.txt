@@ -1,0 +1,2 @@
+Prefix plugins/TransformerMultiple/example/
+Plugin TransformerMultiple inputfile parameters.txt outputfile output.png
